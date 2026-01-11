@@ -1,0 +1,11 @@
+torch>=2.0.0
+transformers>=4.36.0
+datasets>=2.16.0
+sacrebleu>=2.4.0
+pandas>=2.1.0
+numpy>=1.24.0
+scikit-learn
+sentencepiece
+accelerate>=0.26.0
+bitsandbytes>=0.41.0
+protobuf
